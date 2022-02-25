@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#main{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#img-div{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+#image{
+     width: 100vw;
+     height: 100vh;
+
+}
+#img-caption{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
